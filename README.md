@@ -62,3 +62,5 @@ Customer support live chat modules
 Learning platforms that require real-time student-teacher interaction
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cabbd3a9-ad41-43b0-8e0c-e8cd48acec9e)
